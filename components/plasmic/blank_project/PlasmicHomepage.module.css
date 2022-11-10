@@ -1,0 +1,38 @@
+.root {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  justify-content: flex-start;
+  align-items: flex-start;
+  min-width: 0;
+  min-height: 0;
+  padding: 0px;
+}
+.section {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  top: auto;
+  left: auto;
+  min-width: 0;
+  padding: 91px 0px;
+  margin: 0px auto;
+}
+.freeBox {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  width: 100%;
+  height: auto;
+  max-width: 960px;
+  grid-row-gap: 24px;
+  grid-column-gap: 32px;
+  min-width: 0;
+  padding: 0px;
+}

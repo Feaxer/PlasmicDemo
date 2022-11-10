@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "projectId": "7nHgwVrraRMSqmmz2Z4sMK",
+      "version": "latest",
+      "dependencies": {},
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "_CXAZb0zSAbvm",
+          "checksum": "ec6dde59b213ee1445d2d4fc6ca27f82"
+        },
+        {
+          "assetId": "7nHgwVrraRMSqmmz2Z4sMK",
+          "type": "projectCss",
+          "checksum": "f2ca259a049221b4d40580ce57663e70"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "x0QqjvQFu74b",
+          "checksum": "64ab614474e6b2b8464cda2269ec6df7"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "x0QqjvQFu74b",
+          "checksum": "64ab614474e6b2b8464cda2269ec6df7"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "xBpZ8I9Og4",
+          "checksum": "964f4afaa7e9428669529d1919f630a3"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "xBpZ8I9Og4",
+          "checksum": "964f4afaa7e9428669529d1919f630a3"
+        },
+        {
+          "type": "icon",
+          "assetId": "RctD-kaew",
+          "checksum": "f62004e8b7019a7c674383d105b2f2aa"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.187"
+}
